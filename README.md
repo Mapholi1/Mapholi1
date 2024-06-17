@@ -10,7 +10,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Tasks:
 
-1. Select Your Operating System (OS):
+1. System (OSSelect Your Operating ):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
@@ -30,7 +30,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+8. tensions and PluExplore Exgins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
 9. Document Your Setup:
